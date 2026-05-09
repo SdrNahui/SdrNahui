@@ -4,7 +4,7 @@ Java Backend Developer Jr | Estudiante de Licenciatura en Sistemas en la UNGS.
 
 Construyo cosas para aprender cómo funcionan. De la idea al deploy.
 
-Mi proyecto principal es **AHSTRID** — un asistente de IA personal con arquitectura modular, integración con múltiples LLMs y memoria semántica. Empezó como una idea y actualmente esta en desarrollo conceptual con un core inicial.
+Mi proyecto principal es **AHSTRID** — un asistente de IA personal con arquitectura modular, integración con múltiples LLMs y memoria semántica. Empezó como una idea y actualmente está en desarrollo con arquitectura modular definida y core inicial funcional.
 
 ---
 
