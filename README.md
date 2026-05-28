@@ -29,6 +29,6 @@ Mi proyecto principal es **AHSTRID** — un asistente de IA personal con arquite
 ### Contacto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nahuel%20Spadari-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/nahuel-spadari-68b313275/)
-[![Email](https://img.shields.io/badge/Email-spadarinahuel11%40gmail.com-D14836?style=flat&logo=gmail)](mailto:spadarinahuel11@gmail.com)
+[![Email](https://img.shields.io/badge/Contáctame-style=flat&logo=gmail)](mailto:spadarinahuel11@gmail.com)
 
 📍 Zona noroeste, Buenos Aires, Argentina
